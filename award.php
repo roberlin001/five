@@ -4,28 +4,12 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=428" />
     <meta http-equiv="X-UA-Compatible" content="ie=edge" />
-    <title>首頁</title>
+    <title>得獎名單－五倍勝利金耀眼</title>
     <link href="./style.css" rel="stylesheet" />
   </head>
   <body>
     <div class="wrapper">
-      <header>
-        <img src="./img/logo.png" class="logo" alt="" />
-        <div class="menuBtn">
-          <div></div>
-          <div></div>
-          <div></div>
-        </div>
-        <nav>
-          <ul>
-            <li><a href="#">首頁</a></li>
-            <li><a href="#">立即登入序號</a></li>
-            <li>
-              <a href="#" onclick='return alert("敬請期待"),!1'>得獎名單</a>
-            </li>
-          </ul>
-        </nav>
-      </header>
+      <?php include "header.html"; ?>
       <div class="main">
         <img src="./img/awardKv.jpg" class="tFull" alt="" />
         <div class="awardCon">
