@@ -95,7 +95,7 @@
             </tr>
             <tr>
               <td></td>
-              <td><input name="uname" /></td>
+              <td><input name="uname" maxlength="10"/></td>
             </tr>
             <tr>
               <td>*</td>
@@ -103,7 +103,7 @@
             </tr>
             <tr>
               <td></td>
-              <td><input name="uid" /></td>
+              <td><input name="uid" maxlength="10"/></td>
             </tr>
             <tr>
               <td>*</td>
@@ -119,7 +119,7 @@
             </tr>
             <tr>
               <td></td>
-              <td><input type="tel" name="phone" /></td>
+              <td><input type="tel" name="phone" maxlength="10"/></td>
             </tr>
             <tr>
               <td>*</td>
