@@ -15,7 +15,7 @@
         <div class="main">
             <img src="./img/text1.png" class="text1 tFull" alt="" />
             <a href="form.php" class="loginBtn">立即登入序號</a>
-            <a href="#" class="awardBtn">直接看獎項</a>
+            <a href="award.php" class="awardBtn">直接看獎項</a>
             <img src="./img/text2.jpg" class="text2 tFull" alt="" />
             <div class="redBg">
                 <a href="form.php" class="loginBtnWhite">立即登入序號</a>
